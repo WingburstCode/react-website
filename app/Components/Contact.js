@@ -10,7 +10,7 @@ export default class extends Component {
           <div className="container">
             <h3><span>Contact Us</span></h3>
             <p>We are located in Seattle, WA, USA.</p>
-            <p>email: <a href="mailto:contact@wingburstcode.com">contact@wingburstcode.com</a></p>
+            <p>email: <a href="mailto:ulberge@gmail.com">ulberge@gmail.com</a></p>
             <p>phone: (206) 948-3348</p>
           </div>
         </div>
